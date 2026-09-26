@@ -1,0 +1,11 @@
+true_class,pred_class,error_rate
+Jeux de Société & Puzzles,"Jouets, Peluches & Poupée",0.21497584541062803
+Figurines Wargame & Jeux ,Livres / Romans / Brochés,0.1895424836601307
+"Films, DVD & Blu-Ray",Livres / Romans / Brochés,0.14855072463768115
+Livres / Romans / Brochés,"Livres Enfants, BD & Mang",0.14285714285714285
+Jeux Vidéo (Jeux),Livres / Romans / Brochés,0.1394422310756972
+Livres / Romans / Brochés,"Presse, Journaux & Magazi",0.12038523274478331
+"Livres Enfants, BD & Mang",Livres / Romans / Brochés,0.1162303664921466
+Consoles de Jeux Vidéo,Consoles & Packs Consoles,0.1144578313253012
+"Livres Enfants, BD & Mang","Presse, Journaux & Magazi",0.11204188481675392
+Livres / Romans / Brochés,"Films, DVD & Blu-Ray",0.10272873194221509

@@ -1,0 +1,35 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Caches Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Fichiers volumineux (> 100 Mo rejetés par GitHub)
+images/
+images.zip
+X_train_clean.csv
+X_train_update.csv
+X_test_clean.csv
+X_test_update.csv
+Y_train_CVw08PX.csv
+
+# Outputs volumineux (matrices sparse, métadonnées images)
+outputs/*.npz
+outputs/image_meta_train.csv
+outputs/image_meta_test.csv
+outputs/train_features.csv
+outputs/test_features.csv
+
+# Modèles sérialisés volumineux
+outputs/lgb_multimodal.pkl
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Gemini
+.gemini/
